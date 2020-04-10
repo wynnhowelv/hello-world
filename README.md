@@ -7,3 +7,5 @@ start to use github repository
 # git commit
 
 # git push 
+
+# git push origin HEAD:master
